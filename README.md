@@ -29,14 +29,10 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails" alt="Ruby on Rails" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo" title="HTML" height="25" /></span>
 <span>
   <img
     src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"
