@@ -14,8 +14,8 @@
 <p align="center">
   <em>
     This is ME, Adal Kelly<br>
-    A budding <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
-    with a passion for creating <b>dynamic</b> and <b>user-friendly</b> web applications. Adept at building robust and scalable solutions that deliver exceptional user experiences. <b>improving</b> himself and wants a <b>platform</b> to
+   a seasoned <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px">  with over 7 years of experience. I hold a Bachelor's degree and thrive on crafting dynamic web applications. My expertise spans major backend languages and frameworks, while frontend development is equally my forte. I'm committed to continuous learning, staying ahead in the ever-evolving tech landscape. My problem-solving skills are honed through competitive programming. With a passion for building user-friendly solutions, I bridge innovation and practicality.  Looking forward to collaborating and growing together. Cheers!
+<b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="Rocket.gif" width="18px">and
     <b>excel</b> <img src="Medal.gif" width="20px">&nbsp.
   </em>
