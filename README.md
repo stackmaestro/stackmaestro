@@ -37,6 +37,22 @@
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo" title="HTML" height="25" /></span>
+<span>
+  <img
+    src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"
+    alt="Java"
+    title="Java"
+    height="25"
+  />
+</span>
+<span>
+  <img
+    src="https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=.net"
+    alt=".NET"
+    title=".NET"
+    height="25"
+  />
+</span>
 
 ### <u> Frontend Development Technologies and Tools: </u>
 
@@ -92,8 +108,46 @@
 <span><img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices" title="Microservices" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS%20Route%2053-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Route 53 logo" title="AWS Route 53" height="25" /></span>
-
-
+<span>
+  <img
+    src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"
+    alt="MongoDB"
+    title="MongoDB"
+    height="25"
+  />
+</span>
+<span>
+  <img
+    src="https://img.shields.io/badge/DynamoDB-blue?style=for-the-badge&logo=amazon-dynamodb"
+    alt="DynamoDB"
+    title="DynamoDB"
+    height="25"
+  />
+</span>
+<span>
+  <img
+    src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"
+    alt="Firebase"
+    title="Firebase"
+    height="25"
+  />
+</span>
+<span>
+  <img
+    src="https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog"
+    alt="Datadog"
+    title="Datadog"
+    height="25"
+  />
+</span>
+<span>
+  <img
+    src="https://img.shields.io/badge/AWS%20Lambda-orange?style=for-the-badge&logo=amazon-aws"
+    alt="AWS Lambda"
+    title="AWS Lambda"
+    height="25"
+  />
+</span>
 
 ### <u> Mobile App Development Technologies & Tools: </u>
 
