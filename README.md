@@ -106,9 +106,9 @@
 <span><img src="https://img.shields.io/badge/AWS%20Route%2053-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Route 53 logo" title="AWS Route 53" height="25" /></span>
 <span>
   <img
-    src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"
-    alt="MongoDB"
-    title="MongoDB"
+    src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb"
+    alt="MariaDB"
+    title="MariaDB"
     height="25"
   />
 </span>
