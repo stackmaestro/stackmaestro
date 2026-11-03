@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Sam Sanders </h1>
 <h3 align="center">Senior Full Stack Software Engineer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sam-sdev/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adeel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samsanders0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adeel" height="30" width="40" /></a>
  <a href = "mailto:samsandersdev@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
